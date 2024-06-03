@@ -1,139 +1,29 @@
 <h1 align="center">Logan Elkins</h1>
 
-
-
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F0E8&center=true&random=false&width=435&lines=Infosec+professional+;Malware+development%2Fanalysis;Learning+something+new+every+day" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F0E8&center=true&random=false&width=435&lines=Infosec+professional+;Malware+development%2Fanalysis;Learning+something+new+every+day" alt="Typing SVG" />
+  </a>
 </p>
 
+
+
 <!-- Social icons section -->
-<p align="center">
-   <a href="https://www.linkedin.com/in/jonah-lawrence/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://dev.to/denvercoder1"><img width="32px" alt="Dev.to" title="DenverCoder1 Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://ko-fi.com/jlawrence"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a>
-<!--   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="http://eyl327.mywebcommunity.org/promos/"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://i.imgur.com/0uVwkoZ.png"/></a> -->
-</p>
 
 <br/>
 
 <!-- Social badges section -->
 <!-- Badges with custom icons - https://github.com/DenverCoder1/custom-icon-badges -->
 <!-- View counter - https://github.com/DenverCoder1/Simple-View-Counter -->
+
 <p align="center">
-  <a href="https://www.youtube.com/c/DevProTips?sub_confirmation=1">
-    <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://freshidea.com/jonah/app/youtube-stats-badges/subscribers-badge.php"/></a>
-  <a href="https://www.youtube.com/c/DevProTips">
-    <img alt="youtube views" title="YouTube views" src="https://freshidea.com/jonah/app/youtube-stats-badges/view-count-badge.php"/></a> 
-  <a href="https://github.com/DenverCoder1?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/DenverCoder1?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-  <a href="https://github.com/DenverCoder1?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/DenverCoder1?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-  <a href="https://github.com/DenverCoder1/Simple-View-Counter">
-    <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/DenverCoder1-profile-views"/></a>
+  Welcome to my github! I am an entry level information security professional with a passion for learning about and analysing malware. This is the home for any programming projects I've completed or am currently working on as well as a place I can store any analysis reports I've completed. 
 </p>
 
 <br/>
 
-<!-- GitHub Star link -->
-<p align="center">
-  <a href="https://stars.github.com/profiles/denvercoder1/">
-    <img src="https://github.com/DenverCoder1/DenverCoder1/assets/20955511/ca15be3f-d00b-438e-91f6-fb5568c1f632" alt="GitHub Star 2023"/></a>
-</p>
 
-<details open> 
-  <summary><h2>🌠 Top Sponsors</h2></summary>
-
-  <table>
-    <tr>
-      <!-- <th>$10+/month</th> -->
-      <th>$5+/month</th>
-    </tr>
-    <tr>
-      <!-- $10+/month -->
-      <!-- <td>
-        <div align="center">
-          <a href="https://github.com/username"><img src="https://github.com/username" alt="@username" width="52" /></a>
-          <br />
-          <a align="center" href="https://github.com/username"><b>Full Name</b></a>
-        </b>
-      </td> -->
-      <!-- $5+/month -->
-      <td>
-        <a href="https://github.com/typesense"><img src="https://custom-icon-badges.demolab.com/badge/-typesense-D90368?style=for-the-badge&logo=mention" alt="typesense" /></a>
-        <a href="https://github.com/chikuang"><img src="https://custom-icon-badges.demolab.com/badge/-chikuang-6FA5FD?style=for-the-badge&logo=mention" alt="chikuang" /></a>
-      </td>
-    </tr>
-  </table>
-
-  <a href="https://github.com/sponsors/DenverCoder1/"><img alt="More about my sponsorship tiers" title="Sponsorship Tiers" src="https://custom-icon-badges.demolab.com/badge/-More%20About%20My%20Sponsorship%20Tiers-1F222E?style=for-the-badge&logoColor=white&logo=link-external"/></a>
-</details>
-
-<details open> 
-  <summary><h2>📘 My Top Open Source Projects</h2></summary>
-
-  <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
-  <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
-  <p align="left">
-    <a href="https://github.com/DenverCoder1/readme-typing-svg"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=readme-typing-svg&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
-    <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=github-readme-streak-stats&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
-    <a href="https://github.com/DenverCoder1/custom-icon-badges"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=DenverCoder1&repo=custom-icon-badges&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="custom-icon-badges"></a>
-    <a href="https://github.com/DenverCoder1/github-readme-youtube-cards"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=github-readme-youtube-cards&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-youtube-cards"></a>
-    <a href="https://github.com/DenverCoder1/unedit-for-reddit"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=unedit-for-reddit&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="unedit-for-reddit"></a>
-    <a href="https://github.com/DenverCoder1/unicode-formatter"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=unicode-formatter&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="unicode-formatter"></a>
-    <a href="https://github.com/DenverCoder1/latex-gboard-dictionary"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=latex-gboard-dictionary&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="latex-gboard-dictionary"></a>
-    <a href="https://github.com/DenverCoder1/minimalistic-wallpaper-collection"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=minimalistic-wallpaper&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="minimalistic-wallpaper-collection"></a>
-    <a href="https://github.com/DenverCoder1/table2ascii"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=table2ascii&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="table2ascii"></a>
-  </p>
-
-  <a href="https://github.com/DenverCoder1?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
-</details>
-
-<details open> 
-  <summary><h2>📕 Top Projects I've Contributed To</h2></summary>
-
-  <!-- Small repo cards https://github.com/DenverCoder1/github-readme-stats (fork of anuraghazra/github-readme-stats) -->
-  <p align="left">
-    <a href="https://github.com/pallets/flask"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=pallets&repo=flask&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="flask"></a>
-    <a href="https://github.com/badges/shields"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=badges&repo=shields&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="shields"></a>
-    <a href="https://github.com/simple-icons/simple-icons"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=simple-icons&repo=simple-icons&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="simple-icons"></a>
-    <a href="https://github.com/Rapptz/discord.py"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Rapptz&repo=discord.py&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="discord.py"></a>
-    <a href="https://github.com/o2sh/onefetch"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=o2sh&repo=onefetch&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="onefetch"></a>
-    <a href="https://github.com/scrapinghub/dateparser"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=scrapinghub&repo=dateparser&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="dateparser"></a>
-    <a href="https://github.com/python-babel/babel"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=python-babel&repo=babel&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="babel"></a>
-    <a href="https://github.com/nextcord/nextcord"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=nextcord&repo=nextcord&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="nextcord"></a>
-    <a href="https://github.com/PyCQA/autoflake"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=PyCQA&repo=autoflake&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="autoflake"></a>
-  </p>
-
-  <p align="left">
-    <a href="https://github.com/DenverCoderOne/My-Contributions/blob/main/README.md"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Forks-1F222E?style=for-the-badge&logoColor=white&logo=fork"/></a>
-  </p>
-</details>
-
-<details> 
-  <summary><h2>📺 Latest YouTube Videos</h2></summary>
-
-  <!-- YouTube Cards - https://github.com/DenverCoder1/github-readme-youtube-cards -->
-
-  <!-- prettier-ignore-start -->
-<!-- BEGIN YOUTUBE-CARDS -->
-<a href="https://www.youtube.com/watch?v=1lXaKEy97qE"><img src="https://ytcards.demolab.com/?id=1lXaKEy97qE&title=GitHub+Star+Swag+Unboxing+and+Giveaways&lang=en&timestamp=1696868769&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=172" alt="GitHub Star Swag Unboxing and Giveaways" title="GitHub Star Swag Unboxing and Giveaways"></a>
-<a href="https://www.youtube.com/watch?v=maoXtlb8t44"><img src="https://ytcards.demolab.com/?id=maoXtlb8t44&title=How+To+Self-Host+GitHub+Readme+Streak+Stats+on+Vercel&lang=en&timestamp=1693523015&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=257" alt="How To Self-Host GitHub Readme Streak Stats on Vercel" title="How To Self-Host GitHub Readme Streak Stats on Vercel"></a>
-<a href="https://www.youtube.com/watch?v=6u9BrDaSHJc"><img src="https://ytcards.demolab.com/?id=6u9BrDaSHJc&title=Automatically+Deploy+to+Fly.io+with+GitHub+Actions&lang=en&timestamp=1661864404&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=312" alt="Automatically Deploy to Fly.io with GitHub Actions" title="Automatically Deploy to Fly.io with GitHub Actions"></a>
-<a href="https://www.youtube.com/watch?v=J7Fm7MdZn_E"><img src="https://ytcards.demolab.com/?id=J7Fm7MdZn_E&title=Hosting+a+Python+Discord+Bot+for+Free+with+Fly.io&lang=en&timestamp=1661708747&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=403" alt="Hosting a Python Discord Bot for Free with Fly.io" title="Hosting a Python Discord Bot for Free with Fly.io"></a>
-<a href="https://www.youtube.com/watch?v=0p_eQGKFY3I"><img src="https://ytcards.demolab.com/?id=0p_eQGKFY3I&title=Making+a+Wordle+Clone+Discord+Bot+with+Python+%28Nextcord%29&lang=en&timestamp=1643900217&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=2115" alt="Making a Wordle Clone Discord Bot with Python (Nextcord)" title="Making a Wordle Clone Discord Bot with Python (Nextcord)"></a>
-<a href="https://www.youtube.com/watch?v=Mt_Bsj6K9Lw"><img src="https://ytcards.demolab.com/?id=Mt_Bsj6K9Lw&title=Run+Open+Source+Code+in+Seconds+with+GitPod&lang=en&timestamp=1642108413&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=578" alt="Run Open Source Code in Seconds with GitPod" title="Run Open Source Code in Seconds with GitPod"></a>
-<!-- END YOUTUBE-CARDS -->
-  <!-- prettier-ignore-end -->
-
-  <p>📺 Get YouTube Cards for your profile at <a href="https://github.com/DenverCoder1/github-readme-youtube-cards">DenverCoder1/github-readme-youtube-cards</a></p>
-  
-  <a href="https://www.youtube.com/c/DevProTips?sub_confirmation=1"><img src="https://custom-icon-badges.demolab.com/badge/-Subscribe-red?style=for-the-badge&logo=video&logoColor=white"/></a>
-  
-</details>
 
 <details> 
   <summary><h2>🛠️ My Favorite Tools</h2></summary>
@@ -241,55 +131,35 @@
   </p>
 </details>
 
-<details> 
-  <summary><h2>📊 Stats and Activity</h2></summary>
 
-  <h3>🔥 Streak Stats</h3>
 
-  <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
-  <p>
-    <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-      <!-- Use https://streak-stats.demolab.com or self-host with your own Vercel app - visit https://git.io/streak-stats for instructions -->
-      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DenverCoder1's streak" src="https://github-readme-streak-stats-9m8ugfa77-denvercoder1.vercel.app/?user=DenverCoder1&theme=monokai-metallian&hide_border=true"/>
-    </a>
-    <p>🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
+
+<details open> 
+  <summary><h2>📘 My Top Open Source Projects</h2></summary>
+
+  <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
+  <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
+  <p align="left">
+    <a href="https://github.com/DenverCoder1/readme-typing-svg"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=readme-typing-svg&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
+    <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=github-readme-streak-stats&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
+    <a href="https://github.com/DenverCoder1/custom-icon-badges"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=DenverCoder1&repo=custom-icon-badges&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="custom-icon-badges"></a>
+    <a href="https://github.com/DenverCoder1/github-readme-youtube-cards"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=github-readme-youtube-cards&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-youtube-cards"></a>
+    <a href="https://github.com/DenverCoder1/unedit-for-reddit"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=unedit-for-reddit&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="unedit-for-reddit"></a>
+    <a href="https://github.com/DenverCoder1/unicode-formatter"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=unicode-formatter&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="unicode-formatter"></a>
+    <a href="https://github.com/DenverCoder1/latex-gboard-dictionary"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=latex-gboard-dictionary&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="latex-gboard-dictionary"></a>
+    <a href="https://github.com/DenverCoder1/minimalistic-wallpaper-collection"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=minimalistic-wallpaper&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="minimalistic-wallpaper-collection"></a>
+    <a href="https://github.com/DenverCoder1/table2ascii"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=table2ascii&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="table2ascii"></a>
   </p>
 
-  <h3>💻 GitHub Profile Stats</h3>
-
-  <!-- https://github.com/anuraghazra/github-readme-stats -->
-
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=DenverCoder1&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=DenverCoder1&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
-  <br/>
-
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  
-  <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=DenverCoder1&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
-
-  <h3>⚡ Recent GitHub Activity</h3>
-
-  <!-- https://github.com/jamesgeorge007/github-activity-readme -->
-  <!--START_SECTION:activity-->
-
-1. ❗️ Closed issue [#686](https://github.com/DenverCoder1/github-readme-streak-stats/issues/686) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
-2. 🎉 Merged PR [#687](https://github.com/DenverCoder1/github-readme-streak-stats/pull/687) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
-3. 🗣 Commented on [#685](https://github.com/DenverCoder1/github-readme-streak-stats/issues/685) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
-4. 🎉 Merged PR [#682](https://github.com/DenverCoder1/github-readme-streak-stats/pull/682) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
-5. 🗣 Commented on [#666](https://github.com/DenverCoder1/github-readme-streak-stats/issues/666) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
-<!--END_SECTION:activity-->
-
-  <h3>🌟 Sponsors</h3>
-
-  <!-- https://github.com/lowlighter/metrics/blob/master/source/plugins/sponsors/README.md -->
-  <a href="https://github.com/sponsors/DenverCoder1/"><img src="https://raw.githubusercontent.com/DenverCoder1/DenverCoder1/main/metrics-sponsors.svg" /></a>
-
+  <a href="https://github.com/DenverCoder1?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </details>
 
-<details> 
-  <summary><h2>🏷️ Holopin Badges</h2></summary>
 
-  <p><a href="https://holopin.io/@denvercoder1"><img src="https://holopin.me/denvercoder1" alt="@denvercoder1&#39;s Holopin board"></a></p>
-</details>
+
+
+
+
+
+
+
+
