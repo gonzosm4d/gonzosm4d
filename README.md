@@ -19,8 +19,8 @@
 \\___[ Linux Rootkit hooking write syscall<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `c`
 
-- `🐧` **`Injection techniques`**<br>
-\\___[ Payload Encryption techniques.<br>
+- `🐧` **`Payload encryption`**<br>
+\\___[ XOR, RC4, and AES payload encrytion techniques.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `c`
 
 ⭐ **Certifications**: `Sec+`, `Splunk power user`, `PJMR`
