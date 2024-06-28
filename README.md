@@ -13,14 +13,14 @@
 <br>
 
 
-🌱 **Projects**:
+ **Projects**:
 
-- `💉` **`Unborn`**<br>
-\\___[ Linux Rootkit<br>
+- `💉` **`Shakeyg`**<br>
+\\___[ Linux Rootkit hooking write syscall<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `c`
 
 - `🐧` **`Injection techniques`**<br>
-\\___[ dll and shellcode injection build from Crow.<br>
+\\___[ Payload Encryption techniques.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `c`
 
 ⭐ **Certifications**: `Sec+`, `Splunk power user`, `PJMR`
