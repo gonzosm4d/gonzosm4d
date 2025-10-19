@@ -1,6 +1,6 @@
 # Logan Elkins(gonzo)
 
-IT to pay the bills / bug bounty hunter / offensive developer
+IT pro / bug bounty hunter / offensive developer
 
 ## What I do
 at **Inovasi** — solo IT operator  
